@@ -1,5 +1,3 @@
-# Shell-Scripts
-Several scripts which directly influence our daily work activities. 
 # ssl_cert_expiry.sh info
 install curl if it is not installed, by default it always install, but install it if it is not.
 ```
